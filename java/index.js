@@ -65,19 +65,50 @@ Q:7;
 // }
 
 
-Q:9
+Q:8
+// const a = [24, 53, 78, 91, 12];
 
-// let arr = [12, 55, 86, 110];
+// let minimum = a[0];
 
-// if (arr == arr){
-//     console.log(arr)
+// for (let i = 1; i < a.length; i++) {
+//   if (a[i] < minimum) {
+//     minimum = a[i];
+//   }
 // }
 
-
-let a = ("abc")
-
-document.write(a)
-alert(a)
-console.log(a)
+// console.log("The smallest number in the array is:", minimum);
 
 
+
+
+Q:9
+// const a = [24, 53, 78, 91, 12];
+
+// let maximum = a[0];
+
+// for (let i = 1; i < a.length; i++) {
+//   if (a[i] > maximum) {
+//     maximum = a[i];
+//   }
+// }
+
+console.log("The largest number in the array is:", maximum);
+
+Q:10
+
+// for(i = 0; i < 100;){
+//     console.log(i)
+// }
+
+Q:10
+
+// const startingNumber = 5;
+// const endingNumber = 100;
+
+// const numberArray = [];
+
+// for (let i = startingNumber; i <= endingNumber; i += 5) {
+//   numberArray.push(i);
+// }
+
+// console.log(numberArray);
